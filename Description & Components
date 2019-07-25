@@ -1,0 +1,24 @@
+This project is basically about smart band which is used for detection of obstacle within a certain pre-defined range.
+This band would sense the obstacle around it and alert the user wearing it.
+Obstacle detection and warning can improve and make feasible the mobility as well as the safety of visually impaired 
+people especially in unfamiliar environments.
+This project has four fundamental component:  Arduino (a microcontroller), Ultrasonic Sensor (to detect obstacles),
+a buzzer(to produce sound)and power source. 
+The working principle of the system is sensing the surrounding environment as well as detection of obstacles 
+via Ultrasonic sensors and guiding and alerting the user by generating beep sound. 
+This system is able to identify obstacle's position within the detection range.
+With the increasing demand for autonomous projects, the use of sensors is increasing.
+Sensors are sophisticated devices that convert the physical parameter (for example: temperature, pressure, humidity, speed, etc.) into a signal which can be measured electrically. They are very important to robotics. It is able to give robots remote access and make decisions as for a desired environment. It can also perceive its own environment and through programming can get the output it desires. Out of these, the motion detectors are based on the Infra-Red, Ultrasonic, and Microwave / radar technology. In industrial applications, ultrasonic sensors are characterized by their reliability and outstanding versatility. Ultrasonic sensors can be used to solve even the most complex tasks involving object detection or level measurement with millimeter precision, because their measuring method works reliably under almost all conditions. Infrared sensors too, find applications in many everyday products. Their low power requirements, their simple circuitry and their portable features make them desirable.
+Keywords-obstacle detection, Arduino, Ultrasonic sensor, buzzer, obstacle avoidance.
+
+Componenets Required:
+
+1. Arduino (Microcontroller)
+2. Breadboard
+3. DC Power Source
+4. Buzzer
+5. Ultrasonic sensor
+6. Arduino Cable
+7. Male to male connecting pins
+8. Band
+9. Key(Switch)
